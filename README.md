@@ -22,7 +22,7 @@
 ### BÀI 2: QUẢN LÝ HỒ SƠ NHÂN SỰ & THÔNG TIN LƯƠNG
 | Giao diện & Avatar | Hộp thoại Đọc / Ghi CSV | Danh sách nạp từ CSV |
 | :---: | :---: | :---: |
-| ![Main](screenshots/giao_dien_2.jpg) | ![CSV](docs/bai2_error.png) | ![Result](screenshots/chay_2.jpg) |
+| ![Main](screenshots/giao_dien_2.jpg) | ![CSV](screenshots/loi_2.jpg) | ![Result](screenshots/chay_2.jpg) |
 
 ---
 
